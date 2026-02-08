@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67f657db-9bb3-4ee1-99a7-c03de0b03d5d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/event_impact.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/event_impact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-swift/swift/llm/model_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/ms-swift/swift/llm/model_download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-swift/swift/llm/model_download.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,8 @@
       <workItem from="1770528800047" duration="672000" />
       <workItem from="1770530652226" duration="59000" />
       <workItem from="1770530842653" duration="54000" />
+      <workItem from="1770531033474" duration="40000" />
+      <workItem from="1770531613376" duration="72000" />
     </task>
     <servers />
   </component>
