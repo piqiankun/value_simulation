@@ -1,0 +1,4602 @@
+[
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "8"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "female_中年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "female_中年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age female aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "female_中年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "2"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "female_中老年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is C.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "female_中老年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old female aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "female_中老年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "female_青年类_higher_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "7"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is G.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "6"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "2"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "female_青年类_middle_high",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "8"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "female_青年类_middle_low",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young female aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "female_青年类_middle_medium",
+    "person_type": {
+      "sex": "female",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is B.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is B.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is high.",
+    "group_class": "male_中年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have higher education, and your current income level is medium.",
+    "group_class": "male_中年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is H.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is H.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "8"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is I.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is high.",
+    "group_class": "male_中年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "8"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is C.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "8"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is low.",
+    "group_class": "male_中年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Middle Age male aged 45 to 59, have middle education, and your current income level is medium.",
+    "group_class": "male_中年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Middle Age",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have higher education, and your current income level is medium.",
+    "group_class": "male_中老年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is D.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "9"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is low.",
+    "group_class": "male_中老年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young-Old male aged 60 to 74, have middle education, and your current income level is medium.",
+    "group_class": "male_中老年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young-Old",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is B.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is high.",
+    "group_class": "male_青年类_higher_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "high"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have higher education, and your current income level is medium.",
+    "group_class": "male_青年类_higher_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "higher",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "7"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "2"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is high.",
+    "group_class": "male_青年类_middle_high",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "high"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "3"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is J.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is low.",
+    "group_class": "male_青年类_middle_low",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "low"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q161",
+    "input": "For the statement of One of the bad effects of science is that it breaks down people’s ideas of right and wrong. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q162",
+    "input": "For the statement of It is not important for me to know about science in my daily life. How much you agree or disagree with each of these statements. 1 means that you completely disagree and 10 means that you completely agree.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q179",
+    "input": "Please tell me whether you think Stealing property can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q186",
+    "input": "Please tell me whether you think Sex before marriage can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "10"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q190",
+    "input": "Please tell me whether you think Parents beating children can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q191",
+    "input": "Please tell me whether you think Violence against other people can always be justified, never be justified, or something in between. 1 means that Never justifiable, and 10 means that Always justifiable.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is A.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "1"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q247",
+    "input": "Please tell me for The state makes people’s incomes equal, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  },
+  {
+    "instruction": "You are currently in United States in 2017. You are a Young male aged 18 to 44, have middle education, and your current income level is medium.",
+    "group_class": "male_青年类_middle_medium",
+    "person_type": {
+      "sex": "male",
+      "age": "Young",
+      "education_level": "middle",
+      "Income_level": "medium"
+    },
+    "question_id": "Q248",
+    "input": "Please tell me for People obey their rulers, how essential you think it is as a characteristic of democracy? Use this scale where 1 means not at all an essential characteristic of democracy and 10 means it definitely is an essential characteristic of democracy.\nPlease select one option from the following.\n (A) 1\n(B) 2\n(C) 3\n(D) 4\n(E) 5\n(F) 6\n(G) 7\n(H) 8\n(I) 9\n(J) 10\nHistorical Answer:\nThe answer in 2011 is E.\nPredict the answer in 2017:",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4",
+      "(E) 5",
+      "(F) 6",
+      "(G) 7",
+      "(H) 8",
+      "(I) 9",
+      "(J) 10"
+    ],
+    "output": "5"
+  }
+]
