@@ -1,5 +1,4 @@
 ## Beyond Static Snapshots: Dynamic Modeling and Forecasting of Group-Level Value Evolution with Large Language Models
-Code and data of our paper "Adaption-of-Thought: Learning Question Difficulty Improves Large Language Models for Reasoning" (EMNLP 2024)
 
 ## 1. Instruction
 This repository contains the code and resources for the main paper titled "Beyond Static Snapshots: Dynamic Modeling and Forecasting of Group-Level Value Evolution with Large Language Models". The project focuses on adapting large language models (LLMs) to dynamic simulate survey response distributions across diverse groups populations.
