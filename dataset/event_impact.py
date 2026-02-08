@@ -12,6 +12,7 @@ OUTPUT_FILE = "event_impact.json"
 
 
 dashscope.api_key = DASHSCOPE_API_KEY
+dashscope.api_key = DASHSCOPE_API_KEY
 
 MODEL_NAME = "qwen3-14b"
 

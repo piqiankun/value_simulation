@@ -1,6 +1,6 @@
 import os
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
-os.environ["HUGGING_FACE_HUB_TOKEN"] = "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"
+# os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+# os.environ["HUGGING_FACE_HUB_TOKEN"] = "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"
 
 
 
