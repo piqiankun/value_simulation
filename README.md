@@ -23,7 +23,7 @@ data/
 │       ├──seen questions
 │            ├──single.json
 │            ├──scale.json
-│       ├──seen questions
+│       ├──unseen questions
 │            ├──single.json
 │            ├──scale.json
 │   ├── 1_initial data
@@ -39,14 +39,14 @@ data/
 │            ├──wvs5.json
 │            ├──wvs6.json
 │            ├──wvs7.json
-│       ├──seen questions
+│       ├──unseen questions
 │            ├──wvs6.json
 │            ├──wvs7.json
 │   ├── 4_group and questions matching
 │       ├──seen questions
 │            ├──wvs5-6.json
 │            ├──wvs6-7.json
-│       ├──seen questions
+│       ├──unseen questions
 │            ├──wvs6-7.json
 └── united states
      ...
