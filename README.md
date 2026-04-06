@@ -8,7 +8,7 @@ Our fine-tuning and inference processes are implemented based on the ms-swift fr
 ```
 git clone https://github.com/modelscope/ms-swift.git
 cd ms-swift
-pip install -e .
+pip install -e
 ```
 
 ## 3. Data preparation
